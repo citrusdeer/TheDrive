@@ -5,10 +5,10 @@ This is not a convienent project, but an important one,
 that frees you from the ever increasing tyranny of technofeudalism.
 
 You've just lost internet.
-Maybe you're on the subway. its only half an hour.
-Maybe Cloudflare is down, taking half the internet with it. it'll hopefully be back up soon.
-Maybe its a fascist takeover/ thermonuclear war. Its gone. The internet is dead.
-Maybe you live in north korea. You've never had internet, never will.
+- Maybe you're on the subway. its only half an hour.
+- Maybe Cloudflare is down, taking half the internet with it. it'll hopefully be back up soon.
+- Maybe its a fascist takeover/ thermonuclear war. Its gone. The internet is dead.
+- Maybe you live in north korea. You've never had internet, never will.
 
 These are all vastly different scenarios, but they all ask the same question:
 what do you still have?
@@ -40,8 +40,8 @@ to companies who violate our trust and privacy and own everything for us,
 and cant be relied upon to be available when we need them.
 Ironic isnt it?
 
-2010: $10 buys a 16gb flash drive? (from what i remember, cant find stats)
-2025: $10 buys a 1TB HDD, or $25 for NVME
+- 2010: $10 buys a 16gb flash drive? (from what i remember, cant find stats)
+- 2025: $10 buys a 1TB HDD, or $25 for NVME
 
 Data costs are falling at exponential rates.
 Experimental methods are showing we can store PETABYTES on DNA.
@@ -69,8 +69,8 @@ In building a Jellyfin NAS, I was downloading 4K episodes and movies.
 In a search for data sovereignty, i came accross Kiwix.
 These two things led me to a conclusion.
 
-120-minute 2160p movie: ~100+ GB
-All of English wikipedia ZIM-file: 110 GB
+- 120-minute 2160p movie: ~100+ GB
+- All of English wikipedia ZIM-file: 110 GB
 
 The difference in use-value and information density of text is astounding!
 I cant even begin to express the value of having All of wikipedia on your phone, available whenever you need it, even in a blackout with no service.
